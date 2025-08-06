@@ -112,6 +112,3 @@ Performed using **Power Query** inside Power BI:
 3. Interact with filters and visuals freely
 
 ---
-
-## 🗃️ Repository Structure
-
